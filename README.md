@@ -1,4 +1,4 @@
-# **sena-base-2021 v6.2.1**
+# El sistema de gestión **sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
 

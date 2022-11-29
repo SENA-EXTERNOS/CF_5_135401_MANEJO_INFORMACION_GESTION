@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 41%
+    right: 79%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 11%
+    right: 67%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 33%
+    right: 8%
 
 @keyframes float1
   0%
@@ -17,3 +21,134 @@
 
   100%
     transform: translateY(0px)
+.img-88
+  width: 88px
+  justify-content: center!important
+  display: block
+  margin: 0 auto      
+.fnd-1
+  background-color: #F6F6F6 
+.fnd-1.acordion__activo, .fnd-3     
+    background-color: #EEEFFB !important
+.fnd-2
+  background-color: #E8E8E8 !important
+.fnd-3-     
+    background-color: #EEEFFB !important  
+    text-align: center !important
+    padding: 1rem 1rem
+
+.fnd-4
+  background-color: #FEE49A
+  text-align: center !important
+  padding: 1rem 1rem
+.fnd-5
+  background-color: #FEE49A  !important
+.fnd-6  
+  background-color: #FDF5AF 
+.fnd-7  
+  background-color: #FFE2EB !important 
+.linea-tiempo-d__item__content
+  background-color: #EEEFFB
+.izq
+  border-radius: 1rem 0 0 1rem
+.der
+  border-radius: 0 1rem 1rem 0
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+       
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 2px   
+.nar i
+  color: $color-secundario !important    
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right  
+  background-color: #242CA3 !important
+
+.linea-tiempo-c__header__btn i, .linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .pasos-b__header__btn--left i, .pasos-b__header__btn--right i 
+  color: #ffffff   !important
+
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+    border-color: $color-secundario
+    background-color: $color-secundario
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after, .pasos-b__header__item--active .pasos-b__header__item__line-container:before
+    background-color: $color-acento-contenido
+
+.tabs-a__tab, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris  
+  background-color: #E8E8E8 
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2)) 
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #FEE49A
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    
+
+.to
+  &::before 
+    border-radius: 3rem 3rem 0 0
+
+.bo     
+  &::before 
+    border-radius: 0 0 3rem 3rem
+.fnd-8
+   &::before 
+    background-color: #EEEFFB !important 
+.txt 
+  text-align: left    
+.bl-izq 
+  justify-content: flex-start
+  .bloque-texto-g__img
+    left: initial
+    right: 0
+
+.linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item__line-container:before, 
+  background-color: $color-secundario
+.linea-tiempo-c__header__item__dot
+  border: 3px solid $color-secundario  
+
+.img-infografica__item, .img-infografica-b__item, 
+    position: absolute
+    cursor: pointer
+    transform: translate(-50%, -50%)
+    width: 8.5%  
+.img-infografica__item__numero    
+    font-size: 1.5rem
+
+.nar2 i
+  color: $color-acento-botones    !important
