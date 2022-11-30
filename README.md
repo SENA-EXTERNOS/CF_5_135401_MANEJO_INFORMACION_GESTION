@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF_5_135401_MANEJO_INFORMACION_GESTION/#/](https://sena-externos.github.io/CF_5_135401_MANEJO_INFORMACION_GESTION/#/)
 
 #
 
