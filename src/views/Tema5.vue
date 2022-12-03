@@ -102,7 +102,7 @@
                     | Cronogramas de investigación, de trabajo y de hitos. 
                   li.mb-0 
                     i.fas.fa-angle-right
-                    | Microsoft Project. 
+                    | <em>Microsoft Project. </em>
                   li.mb-0 
                     i.fas.fa-angle-right
                     | Cronograma de inversiones. 

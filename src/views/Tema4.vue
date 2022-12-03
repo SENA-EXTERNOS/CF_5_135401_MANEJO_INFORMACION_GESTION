@@ -21,11 +21,11 @@
         .col-lg-7               
           LineaTiempoD.color-acento-contenido.mb-5
             p.text-small(numero="1" titulo="<em>Enterprise Resource Planning</em> (ERP)")  Este sistema de planificación de recursos empresariales o <em>software</em> ERP, permite gestionar todos los procesos de las organizaciones, abarcando las diferentes áreas que la componen; su enfoque se centra en el análisis de los procesos y facilidad del flujo de datos en información entre los mismos, desde producción hasta distribución o, inclusive, recursos humanos.
-            p.text-small(numero="2" titulo="<em>Customer Relationship Management </em>")  La gestión de la relación con el cliente o CRM, es una estrategia orientada, generalmente, a diligenciar tres áreas básicas: la gestión comercial, el marketing y el servicio posventa o atención al cliente.
+            p.text-small(numero="2" titulo="<em>Customer Relationship Management </em>")  La gestión de la relación con el cliente o CRM, es una estrategia orientada, generalmente, a diligenciar tres áreas básicas: la gestión comercial, el<em> marketing</em> y el servicio posventa o atención al cliente.
               | Se refiere a sistemas de gestión que pueden estar integrados a los ERP y su función se enfoca en dar soporte a los procesos comerciales y en la gestión de clientes.
-            p.text-small(numero="3" titulo="Sistemas de Gestión de Almacenes (SGA)")  Es una aplicación de software, herramienta orientada a controlar, coordinar y optimizar los movimientos, procesos y maniobras en las organizaciones con operación logística de almacenes, facilitando sus procesos de gestión y automatización; el SGA también puede estar articulado con el ERP. 
+            p.text-small(numero="3" titulo="Sistemas de Gestión de Almacenes (SGA)")  Es una aplicación de<em> software,</em> herramienta orientada a controlar, coordinar y optimizar los movimientos, procesos y maniobras en las organizaciones con operación logística de almacenes, facilitando sus procesos de gestión y automatización; el SGA también puede estar articulado con el ERP. 
             p.text-small(numero="4" titulo="Sistemas de Gestión Documental (SGD)")  Se refiere a la forma de gestionar, coordinar y controlar las actividades específicas que afecten a la creación, la recepción, la ubicación, el acceso y la preservación de los documentos de las organizaciones, en formato físico o digital, poniendo especial atención a los procesos relacionados con su creación, almacenamiento, archivo, organización y gestión.
-            p.text-small(numero="5" titulo="<em>Business Intelligence</em> (BI)")  Es un tipo de software que se nutre de datos de negocios y muestra reportes, secciones, tablas y gráficos de forma accesible; un conjunto de acciones donde su foco se centra en la gestión de grandes volúmenes de información, como apoyo a la gerencia en sus procesos de toma de decisiones. 
+            p.text-small(numero="5" titulo="<em>Business Intelligence</em> (BI)")  Es un tipo de <em>software</em> que se nutre de datos de negocios y muestra reportes, secciones, tablas y gráficos de forma accesible; un conjunto de acciones donde su foco se centra en la gestión de grandes volúmenes de información, como apoyo a la gerencia en sus procesos de toma de decisiones. 
             p.text-small(numero="6" titulo="<em>Business Process Management</em> (BPM)")  La gestión de procesos de negocio, se refiere a la práctica con la que se forman, analizan y optimizan procesos para que la organización pueda lograr sus objetivos comerciales concretos, como mejorar la experiencia del cliente.
               | Es un conjunto de principios con la finalidad de garantizar que los productos se fabriquen en condiciones sanitarias adecuadas y se disminuyan los riesgos propios de la producción y la distribución.
         .col-lg-5
@@ -82,8 +82,7 @@
       .list__txt
         h3.mb-0 Reglamentos
     p.mb-5 Vale la pena aclarar que el manual de gestión no es un requisito obligatorio; sin embargo, es una guía que orienta y facilita la implementación, mantenimiento y mejora del sistema de gestión en una organización; en él se consignan los reglamentos tanto internos, como los del cliente, además de los requisitos para alcanzar un proceso de certificación, en caso que ese sea uno de los objetivos organizacionales. 
-
-
+    p.mb-5 Conozca cuáles son los beneficios y los alcances del manual de gestión:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-1")
       .row(titulo="Beneficios de un manual de gestión")
         .col-md-7.mb-4.mb-md-0
@@ -175,7 +174,7 @@
               .tarjeta-avatar
                 img(src='@/assets/curso/temas/tema4/img-11.svg' alt='AvatarTop')
                 .tarjeta.fnd-6.w-100
-                  p.p-4.py-5  Cuando un autor elige hacer un registro de su obra ante la Dirección Nacional del Derecho de Autor, su objetivo es el de brindar mayor seguridad a su obra. Este derecho aplica también al software, por lo que el código fuente de un programa informático está cubierto por la Ley de Derechos de Autor.
+                  p.p-4.py-5  Cuando un autor elige hacer un registro de su obra ante la Dirección Nacional del Derecho de Autor, su objetivo es el de brindar mayor seguridad a su obra. Este derecho aplica también al<em> software</em>, por lo que el código fuente de un programa informático está cubierto por la Ley de Derechos de Autor.
 
 
 

@@ -97,12 +97,12 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-7.svg' alt='AvatarTop')
-        p.text-center Design thinking.
+        p.text-center <em>Design thinking.</em>
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-8.svg' alt='AvatarTop')
-        p.text-center Benchmarking.
+        p.text-center <em> Benchmarking.</em>
 
     .list.mb-5(data-aos="fade-down")
       .list__item

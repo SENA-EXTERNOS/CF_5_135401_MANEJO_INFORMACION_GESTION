@@ -12,7 +12,7 @@
         figure
               img.mb-5(src='@/assets/curso/temas/tema2/img-1.png')
       .col-lg-7      
-        p Con la finalidad de garantizar una administración adecuada de los sistemas de gestión que se implementan en una organización específica, es primordial conocer algunos elementos conceptuales, sobre los que se sustenta la lógica de la gestión por procesos; se habla, entonces, del sistema productivo que es un conjunto de elementos que interactúan entre sí, para llevar a cabo un proceso de transformación de unos insumos (entradas - inputs) en producto terminado (salidas - outputs). Para lograr el fortalecimiento de un sistema productivo, es necesario que se realice una gestión eficiente y eficaz de los factores productivos (recursos), disponibles por parte de la organización en que se lleva a cabo.
+        p Con la finalidad de garantizar una administración adecuada de los sistemas de gestión que se implementan en una organización específica, es primordial conocer algunos elementos conceptuales, sobre los que se sustenta la lógica de la gestión por procesos; se habla, entonces, del sistema productivo que es un conjunto de elementos que interactúan entre sí, para llevar a cabo un proceso de transformación de unos insumos (entradas - <em>inputs</em>) en producto terminado (salidas -<em> outputs</em>). Para lograr el fortalecimiento de un sistema productivo, es necesario que se realice una gestión eficiente y eficaz de los factores productivos (recursos), disponibles por parte de la organización en que se lleva a cabo.
 
     p.mb-5 A continuación, se ampliará esta información:
     .row.justify-content-center.align-items-center.mb-5
@@ -33,11 +33,11 @@
       .list__txt
         h3.mb-0 Sistema operativo
 
-    p.mb-5 Por otra parte, se denomina sistema operativo a un programa informático (software), que permite hacer un proceso de intermediación entre el hardware, o componente físico del dispositivo, los programas informáticos específicos que se utilizan y, el usuario, a través de un entorno visual que facilite su operación.         
+    p.mb-5 Por otra parte, se denomina sistema operativo a un programa informático<em> (software)</em>, que permite hacer un proceso de intermediación entre el<em> hardware,</em> o componente físico del dispositivo, los programas informáticos específicos que se utilizan y, el usuario, a través de un entorno visual que facilite su operación.         
     p.mb-5 De acuerdo con su clasificación, los sistemas operativos pueden ser:   
 
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-3")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-1")
       .row(titulo="De arquitectura")
         .col-md-6.mb-4.mb-md-0
           p Esta característica viene dada por si el sistema operativo está construido con una arquitectura de 32 o de 64 bits. En este sentido, cuanto mayor sea la arquitectura, mayor carga de trabajo podrá administrar el sistema operativo. El siguiente paso natural, será evolucionar del sistema de 64 bits al de 128 bits.
@@ -64,7 +64,7 @@
             img(src='@/assets/curso/temas/tema2/img-6.png')
       .row(titulo="Orientación a dispositivos")
         .col-md-6.mb-4.mb-md-0
-          p Consiste en clasificar el sistema operativo, según el dispositivo donde se aloje. Los más populares son PC, tablet, smartphone o consolas, entre otros.
+          p Consiste en clasificar el sistema operativo, según el dispositivo donde se aloje. Los más populares son PC,<em> tablet, smartphone</em> o consolas, entre otros.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema2/img-7.png')
