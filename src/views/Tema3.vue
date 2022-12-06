@@ -68,16 +68,12 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-8-.svg')
           .tarjeta.fnd-3.p-3(x="11.8%" y="18%" numero="1")
-            .h5.mb-2 Planear
             p Consiste en la definición de políticas, objetivos y procesos de la organización, responde a las preguntas ¿qué hacer? y ¿cómo hacerlo?
           .tarjeta.fnd-3.p-3(x="85.6%" y="18%" numero="2")
-            .h5.mb-2 Hacer
             p Define la forma en que se implementarán los procesos en relación con la planificación.
           .tarjeta.fnd-3.p-3(x="86.7%" y="82%" numero="3")
-            .h5.mb-2 Verificar
             p Enfoca su actuar en el seguimiento a los procesos, productos y servicios, comprobando la ejecución de actividades, de conformidad con lo planificado.
           .tarjeta.fnd-3.p-3(x="13%" y="82%" numero="4")
-            .h5.mb-2 Actuar
             p Define acciones relacionadas con el mejoramiento continuo y formalización de compromisos para su ejecución.
 
     .list.mb-5(data-aos="fade-down")
