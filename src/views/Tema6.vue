@@ -145,7 +145,7 @@
       .list__txt
         h3.mb-0 Técnicas de análisis de resultados
 
-    p.mb-5 En primera instancia, el análisis de datos debe poner su énfasis en el conocimiento de los datos, así como familiarizarse con sus características esenciales; para ello es necesario someterlos a una limpieza o depuración, a partir de ejercicios críticos en los que los datos son analizados a la luz de su validez.
+    p.mb-5 En primera instancia, el análisis de datos debe poner su énfasis en el conocimiento de los datos, así como familiarizarse con sus características esenciales; para lograrlo es necesario someterlos a una limpieza o depuración, a partir de ejercicios críticos en los que los datos son analizados a la luz de su validez.
     p.mb-5 Para ello se utilizan diversas técnicas entre las que se resaltan:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -153,10 +153,10 @@
           .row.justify-content-center.align-items-center
             .col-lg-6               
              LineaTiempoD.non.color-acento-contenido
-              p.text-small(numero="1" titulo="Distribuciones univariables") (distribuciones de frecuencias, medidas de resumen, gráficas, etc.).  
-              p.text-small(numero="2" titulo="Tabulaciones cruzadas")  (distribuciones de frecuencia en agrupaciones importantes como sexo, raza, exposición, enfermedad, etc.). 
-              p.text-small(numero="3" titulo="Gráficos de puntos")   para visualizar parejas de variables continuas. 
-              p.text-small(numero="4" titulo="Matrices de correlación.") 
+              p.mb-0(numero="1" titulo="Distribuciones univariables") Se refieren a distribuciones de frecuencias, medidas de resumen y gráficas, entre otros.
+              p.mb-0(numero="2" titulo="Tabulaciones cruzadas") Se fundamentan en distribuciones de frecuencia, en agrupaciones importantes como sexo, raza, exposición, enfermedad, etc.
+              p.mb-0(numero="3" titulo="Gráficos de puntos") Estos visualizan parejas de variables continuas.
+              p.mb-0(numero="4" titulo="Matrices de correlación.") Muestran los valores de correlación, que miden el grado de relación lineal, entre cada par de variables. 
 
 
             .col-lg-6

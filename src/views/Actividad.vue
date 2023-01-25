@@ -12,7 +12,7 @@
         .titulo-segundo.color-acento-botones
           h2 El sistema de gestión
         p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo relacionados con los atributos de los indicadores de gestión.
-        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha:
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

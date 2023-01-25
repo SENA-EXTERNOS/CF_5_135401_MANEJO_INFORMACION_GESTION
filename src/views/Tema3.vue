@@ -144,29 +144,11 @@
                 figure
                   img.img-88(src='@/assets/curso/temas/tema3/img-16.svg')
 
-    p.mb-5 Para profundizar un poco más sobre este tema es necesario visualizar el siguiente video, el cual presenta la relación existente entre el ciclo PHVA y los principios de la calidad.
+    p.mb-5 Para profundizar un poco más sobre este tema, es necesario visualizar el siguiente video, el cual presenta la relación existente entre el ciclo PHVA y los principios de la calidad:
     
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Fj3zHwTwVsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video                  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </template>

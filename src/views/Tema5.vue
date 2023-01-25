@@ -139,7 +139,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Diagramas
-                  p.text-small Para concluir con esta temática, lo invitamos a leer el documento Diagramas. 
+                  p Para concluir con esta temática, lo invitamos a leer el documento Diagramas. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo_Diagramas.pdf')" target="_blank")
                     span Descargar

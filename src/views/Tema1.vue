@@ -12,7 +12,7 @@
         figure
               img.mb-5(src='@/assets/curso/temas/tema1/img-1.svg')
       .col-lg-7      
-        p Los indicadores de gestión son herramientas gerenciales, fundamentales para realizar el seguimiento y análisis de la eficiencia y eficacia de los diferentes procesos de la organización, a partir de la verificación del cumplimiento de los objetivos y metas de un proceso determinado, en relación con los grupos de interés; de esta manera, se aporta información valiosa para la toma de decisiones, el diseño de planes de contingencia y la formulación de acciones de mejora, el logro y ejecución de la misión, valores, unidades, índices, series, y estadísticas entre otras.
+        p Los indicadores de gestion, son herramientas gerenciales, fundamentales para realizar el seguimiento y análisis de la eficiencia y eficacia de los diferentes procesos de la organización, a partir de la verificación del cumplimiento de los objetivos y metas de un proceso determinado, en relación con los grupos de interés; de esta manera, se aporta información valiosa para la toma de decisiones, el diseño de planes de contingencia y la formulación de acciones de mejora, el logro y ejecución de la misión, valores, unidades, índices, series y estadísticas, entre otras.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -58,7 +58,7 @@
       .list__txt
         h3.mb-0 Clases 
 
-    p Ahora bien, los indicadores permiten hacer seguimiento a la gestión, posibilitando la verificación del desempeño eficaz de las organizaciones y facilitando la toma de decisiones que promuevan el aprendizaje organizacional, en relación con su historia, situación actual, y desafíos.
+    p Ahora bien, los indicadores permiten hacer seguimiento a la gestión, posibilitando la verificación del desempeño eficaz de las organizaciones y facilitando la toma de decisiones que promuevan el aprendizaje organizacional, en relación con su historia, situación actual y desafíos.
     p.mb-5 De acuerdo con diversas metodologías, los indicadores se pueden clasificar de la siguiente manera:
 
     .tarjeta.tarjeta--gris.p-4.mb-5.fnd-3 
@@ -154,8 +154,7 @@
       .col-lg-10
 
         .titulo-sexto.color-acento-botones(data-aos='fade-right')
-          h5 Figura 1
-          span Caracterización de proceso
+          p.mb-0 <b>Figura 1</b><br> <i>Caracterización de proceso</i>
 
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-8.svg')   
@@ -212,8 +211,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-botones(data-aos='fade-right')
-              h5 Figura 2
-              span Criterios para la selección de indicadores
+          p.mb-0 <b>Figura 2</b><br><i>Criterios para la selección de indicadores</i>
         figure
           img.mb-2(src='@/assets/curso/temas/tema1/img-t.svg') 
           figcaption Nota. DANE (2007), tomado y adaptado de Ingenio Empresa (2022). 
@@ -310,26 +308,26 @@
                 img(src='@/assets/curso/temas/tema1/img-15.png')
           .col-lg-6               
              LineaTiempoD.color-acento-contenido
-              p.text-small(numero="1" titulo="Nombre del indicador")  Debe caracterizarse por ser concreto y preciso.
-              p.text-small(numero="2" titulo="Sigla")  Es un identificador abreviado para cada indicador y sus atributos, valiéndose de pocos caracteres.
-              p.text-small(numero="3" titulo="Objetivo")  Es el propósito de medición que se persigue con el indicador. 
-              p.text-small(numero="4" titulo="Conceptos")  Son los conceptos o elementos que se tienen en cuenta para realizar el cálculo del indicador y deben ser explicados. 
-              p.text-small(numero="5" titulo="Fórmula de indicador")  Expresión matemática usada para calcular el indicador. 
-              p.text-small(numero="6" titulo="Fuente de datos")  Lugar donde se originan los datos requeridos para la fórmula. 
-              p.text-small(numero="7" titulo="Unidad de medida")  Unidad en la que será expresado el indicador (porcentaje, unidades de producto, valor monetario, kilogramos, etc.). 
-              p.text-small(numero="8" titulo="Responsable")  Funcionario encargado de recolectar los datos. 
-              p.text-small(numero="9" titulo="Frecuencia de la toma de datos")  Periodicidad en la que se tomarán los datos, relacionados con el indicador.  
-              p.text-small(numero="10" titulo="Sentido")  Relación entre el valor obtenido y el impacto del indicador. 
-              p.text-small(numero="11" titulo="Frecuencia de cálculo")  Periodicidad con la que se calcula el indicador. 
-              p.text-small(numero="12" titulo="Frecuencia de análisis")  Periodicidad con la que es analizado el indicador, en el proceso de toma de decisiones. 
-              p.text-small(numero="13" titulo="Observaciones")  Reflexiones y recomendaciones, relacionadas con el indicador. 
+              p(numero="1" titulo="Nombre del indicador")  Debe caracterizarse por ser concreto y preciso.
+              p(numero="2" titulo="Sigla")  Es un identificador abreviado para cada indicador y sus atributos, valiéndose de pocos caracteres.
+              p(numero="3" titulo="Objetivo")  Es el propósito de medición que se persigue con el indicador. 
+              p(numero="4" titulo="Conceptos")  Son los conceptos o elementos que se tienen en cuenta para realizar el cálculo del indicador y deben ser explicados. 
+              p(numero="5" titulo="Fórmula de indicador")  Expresión matemática usada para calcular el indicador. 
+              p(numero="6" titulo="Fuente de datos")  Lugar donde se originan los datos requeridos para la fórmula. 
+              p(numero="7" titulo="Unidad de medida")  Unidad en la que será expresado el indicador (porcentaje, unidades de producto, valor monetario, kilogramos, etc.). 
+              p(numero="8" titulo="Responsable")  Funcionario encargado de recolectar los datos. 
+              p(numero="9" titulo="Frecuencia de la toma de datos")  Periodicidad en la que se tomarán los datos, relacionados con el indicador.  
+              p(numero="10" titulo="Sentido")  Relación entre el valor obtenido y el impacto del indicador. 
+              p(numero="11" titulo="Frecuencia de cálculo")  Periodicidad con la que se calcula el indicador. 
+              p(numero="12" titulo="Frecuencia de análisis")  Periodicidad con la que es analizado el indicador, en el proceso de toma de decisiones. 
+              p(numero="13" titulo="Observaciones")  Reflexiones y recomendaciones, relacionadas con el indicador. 
 
 
     separador
 
     #t_1_2.titulo-segundo.color-acento-botones
       h2 1.2  Análisis y seguimiento
-    p.mb-5 El proceso de análisis de indicadores, guarda relación directa con la definición realizada de los mismos; por tal motivo, la calidad de los indicadores se verá reflejada al momento de analizar sus resultados y, en este momento, se espera que todos los involucrados se encuentren debidamente sensibilizados y capacitados para llevar a cabo el proceso de toma de información, procesamiento o cálculo de indicadores, y su posterior análisis.
+    p.mb-5 El proceso de análisis de indicadores, guarda relación directa con la definición realizada de los mismos; por tal motivo, la calidad de los indicadores se verá reflejada al momento de analizar sus resultados y, en este momento, se espera que todos los involucrados se encuentren debidamente sensibilizados y capacitados para llevar a cabo el proceso de toma de información, procesamiento o cálculo de indicadores y su posterior análisis.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
