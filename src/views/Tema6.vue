@@ -156,7 +156,7 @@
               p.mb-0(numero="1" titulo="Distribuciones univariables") Se refieren a distribuciones de frecuencias, medidas de resumen y gráficas, entre otros.
               p.mb-0(numero="2" titulo="Tabulaciones cruzadas") Se fundamentan en distribuciones de frecuencia, en agrupaciones importantes como sexo, raza, exposición, enfermedad, etc.
               p.mb-0(numero="3" titulo="Gráficos de puntos") Estos visualizan parejas de variables continuas.
-              p.mb-0(numero="4" titulo="Matrices de correlación.") Muestran los valores de correlación, que miden el grado de relación lineal, entre cada par de variables. 
+              p.mb-0(numero="4" titulo="Matrices de correlación") Muestran los valores de correlación, que miden el grado de relación lineal, entre cada par de variables. 
 
 
             .col-lg-6
