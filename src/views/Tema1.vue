@@ -12,7 +12,7 @@
         figure
               img.mb-5(src='@/assets/curso/temas/tema1/img-1.svg')
       .col-lg-7      
-        p Los indicadores de gestion, son herramientas gerenciales, fundamentales para realizar el seguimiento y análisis de la eficiencia y eficacia de los diferentes procesos de la organización, a partir de la verificación del cumplimiento de los objetivos y metas de un proceso determinado, en relación con los grupos de interés; de esta manera, se aporta información valiosa para la toma de decisiones, el diseño de planes de contingencia y la formulación de acciones de mejora, el logro y ejecución de la misión, valores, unidades, índices, series y estadísticas, entre otras.
+        p Los indicadores de gestión, son herramientas gerenciales, fundamentales para realizar el seguimiento y análisis de la eficiencia y eficacia de los diferentes procesos de la organización, a partir de la verificación del cumplimiento de los objetivos y metas de un proceso determinado, en relación con los grupos de interés; de esta manera, se aporta información valiosa para la toma de decisiones, el diseño de planes de contingencia y la formulación de acciones de mejora, el logro y ejecución de la misión, valores, unidades, índices, series y estadísticas, entre otras.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
