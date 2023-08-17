@@ -66,8 +66,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema4/img-5.svg' alt='AvatarTop')
-          p.text-center Alcance del sistema de gestión. 
-            | Procedimientos que se llevarán a cabo.
+          p.text-center Procedimientos que se llevarán a cabo.
 
         .tarjeta.color-acento-contenido.p-4.h-100
           .row.justify-content-center.mb-3
@@ -164,7 +163,7 @@
       .col-lg-8
 
 
-        .row.justify-content-center.d-flex
+        .row.justify-content-center.d-flex.text-center
           .col-lg.mb-5
               .tarjeta-avatar
                 img.mb-5(src='@/assets/curso/temas/tema4/img-10.svg' alt='AvatarTop')
