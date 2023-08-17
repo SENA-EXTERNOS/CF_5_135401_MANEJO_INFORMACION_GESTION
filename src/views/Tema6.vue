@@ -68,37 +68,37 @@
     p.mb-5 Una vez aplicados los instrumentos de medición, es importante valerse de diferentes herramientas que faciliten el análisis de la información, con el fin de formular acciones que permitan mejorar el desempeño de la organización; algunas de las herramientas para realizar este análisis son:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-2.svg' alt='AvatarTop')
         p.text-center Diagrama de flujo.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-3.svg' alt='AvatarTop')
         p.text-center Espina de pescado o árbol de causas.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-4.svg' alt='AvatarTop')
         p.text-center Matriz de criterios.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-5.svg' alt='AvatarTop')
         p.text-center FODA.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-6.svg' alt='AvatarTop')
         p.text-center Despliegue de la función de calidad.
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-7.svg' alt='AvatarTop')
         p.text-center <em>Design thinking.</em>
-      .tarjeta.color-acento-contenido.p-4
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/img-8.svg' alt='AvatarTop')
