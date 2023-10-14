@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/img-intro.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Apreciado aprendiz, bienvenido a este componente formativo donde podrá actualizar sus conocimientos sobre el sistema de gestión, con la inclusión de material relacionado con los requerimientos para el diseño e implementación de un sistema de gestión en una organización determinada; a través de los contenidos disponibles, se pueden identificar los componentes del ciclo PHVA (Planear, Hacer, Verificar, Actuar), así como, también, elementos y herramientas necesarios para la implementación efectiva de un sistema de gestión, garantizando la pertinencia del mismo, de acuerdo con las características y necesidades de la organización.
+            p Apreciado aprendiz, bienvenido a este componente formativo donde podrá actualizar sus conocimientos sobre el sistema de gestión, con la inclusión de material relacionado con los requerimientos para el diseño e implementación de un sistema de gestión en una organización determinada; a través de los contenidos disponibles, se pueden identificar los componentes del ciclo PHVA (Planear, Hacer, Verificar, Actuar), así como, también, elementos y herramientas necesarias para la implementación efectiva de un sistema de gestión, garantizando la pertinencia del mismo, de acuerdo con las características y necesidades de la organización.
 
     br 
     br

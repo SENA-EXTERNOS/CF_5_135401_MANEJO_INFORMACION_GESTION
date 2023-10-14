@@ -160,7 +160,7 @@
           img.mb-2(src='@/assets/curso/temas/tema1/img-8.svg')   
         figcaption Nota. Tomado y adaptado de Ingenio Empresa (2022). 
 
-    p.mb-5 Es posible concebir indicadores de diferente tipo, (como Ingenio Empresa 2022):
+    p.mb-5 Es posible concebir indicadores de diferente tipo:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -180,7 +180,7 @@
           .col-lg.fnd-4.der
             h3.mt-4 Variación 
             p.mb-5 Las ventas aumentaron 20 % con respecto al año anterior.
-
+        figcaption.mt-2 Nota. como Ingenio Empresa (2022).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4

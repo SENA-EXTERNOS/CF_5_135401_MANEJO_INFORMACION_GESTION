@@ -21,7 +21,7 @@
         .col-lg-7               
           LineaTiempoD.color-acento-contenido.mb-5
             p(numero="1" titulo="<em>Enterprise Resource Planning</em> (ERP)")  Este sistema de planificación de recursos empresariales o <em>software</em> ERP, permite gestionar todos los procesos de las organizaciones, abarcando las diferentes áreas que la componen; su enfoque se centra en el análisis de los procesos y facilidad del flujo de datos en información entre los mismos, desde producción hasta distribución o, inclusive, recursos humanos.
-            p(numero="2" titulo="<em>Customer Relationship Management </em>")  La gestión de la relación con el cliente o CRM, es una estrategia orientada, generalmente, a diligenciar tres áreas básicas: la gestión comercial, el<em> marketing</em> y el servicio posventa o atención al cliente.
+            p(numero="2" titulo="<em>Customer Relationship Management</em> (CRM)")  La gestión de la relación con el cliente o CRM, es una estrategia orientada, generalmente, a diligenciar tres áreas básicas: la gestión comercial, el<em> marketing</em> y el servicio posventa o atención al cliente.
               | Se refiere a sistemas de gestión que pueden estar integrados a los ERP y su función se enfoca en dar soporte a los procesos comerciales y en la gestión de clientes.
             p(numero="3" titulo="Sistemas de Gestión de Almacenes (SGA)")  Es una aplicación de<em> software,</em> herramienta orientada a controlar, coordinar y optimizar los movimientos, procesos y maniobras en las organizaciones con operación logística de almacenes, facilitando sus procesos de gestión y automatización; el SGA también puede estar articulado con el ERP. 
             p(numero="4" titulo="Sistemas de Gestión Documental (SGD)")  Se refiere a la forma de gestionar, coordinar y controlar las actividades específicas que afecten a la creación, la recepción, la ubicación, el acceso y la preservación de los documentos de las organizaciones, en formato físico o digital, poniendo especial atención a los procesos relacionados con su creación, almacenamiento, archivo, organización y gestión.
@@ -137,7 +137,7 @@
       .list__txt
         h3.mb-0 Propiedad intelectual
 
-    p.mb-5 De acuerdo con lo establecido por la Organización Mundial de la Propiedad Intelectual - OMPI, la propiedad intelectual (PI) se relaciona con las creaciones de la mente: invenciones, obras literarias y artísticas, así como símbolos, nombres e imágenes utilizados en el comercio. Con base en lo anterior, dicho ente define dos ramas de propiedad intelectual: la propiedad industrial y el derecho de autor.
+    p.mb-5 De acuerdo con lo establecido por la Organización Mundial de la Propiedad Intelectual - OMPI, la propiedad intelectual (PI) se relaciona con las creaciones de la mente: invenciones, obras literarias y artísticas, así como símbolos, nombres e imágenes utilizadas en el comercio. Con base en lo anterior, dicho ente define dos ramas de propiedad intelectual: la propiedad industrial y el derecho de autor.
     p.mb-5 La Dirección Nacional de Derecho de Autor -DNDA- señala que la propiedad intelectual es un área del derecho que busca proteger las creaciones del intelecto humano, las cuales pueden tener diversas características. Para el caso de Colombia, el Sistema de PI se organiza en tres áreas:
 
     .row.justify-content-center.align-items-center.mb-5

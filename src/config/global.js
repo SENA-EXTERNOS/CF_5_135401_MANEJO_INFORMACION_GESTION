@@ -150,7 +150,7 @@ export default {
     {
       tema: 'Evaluación del desempeño del sistema',
       referencia:
-        'Design Thinking España. (2020). <em>Metodología Desgn Thinking. ¡Aprende a aplicar sus fases con ejemplos! </em>(video). YouTube.',
+        'Design Thinking España. (2020). <em>Metodología Design Thinking. ¡Aprende a aplicar sus fases con ejemplos! </em>(video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_ul3wfKss58',
     },

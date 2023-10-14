@@ -23,7 +23,7 @@
               .bloque-texto-a__texto.p-4            
                 .row.justify-content-center.align-items-center
                   .col-lg-6
-                    ul.lista-ul--color.nar2
+                    ul.lista-ul--color.nar2.mb-0
                       li.mb-0 
                         i.fas.fa-angle-right
                         | Diagrama de Pareto.
@@ -44,8 +44,7 @@
                         | La función de pérdida de Taguchi.
 
                   .col-lg-6
-                    ul.lista-ul--color.nar2
-
+                    ul.lista-ul--color.nar2.mb-0
                       li.mb-0 
                         i.fas.fa-angle-right
                         | Hoja de registro de tiempo o métodos de control de tiempo.
